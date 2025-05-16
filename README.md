@@ -1,12 +1,27 @@
-- 👋 Hi, I’m @EnzoV-lab
-- 👀 I’m interested in Code
-- 🌱 I’m currently learning GitHub
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me : e-mail
-- 😄 Pronouns: Le Z
-- ⚡ Fun fact: I'm not fun
+Contenu du dépôt :
 
-<!---
-EnzoV-lab/EnzoV-lab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Pendu.py : Le script Python principal qui exécute le jeu.
+Motspendu.txt : Une liste de mots  utilisés pour le jeu. Chaque mot est sur une ligne différente.
+
+Python 3.x installé sur votre machine
+Aucune librairie externe n’est requise.
+
+Lancer le jeu :
+
+Ouvre un logicile de devellopement python.
+Insérer les deux fichier dans un meme dossier/projet.
+lancez le programme.
+
+Fonctionnalités :
+
+Choix aléatoire d’un mot depuis la liste.
+Prise en compte des lettres accentuées.
+Affichage progressif du mot deviné.
+Comptage du nombre d’erreurs autorisées.
+Indice afficher s'il reste uniquement une vie.
+Fin de partie gagnée ou perdue avec affichage du mot complet.
+possibilité de rejouer sans relancer le code.
+
+Objectif :
+
+S'amuser 
